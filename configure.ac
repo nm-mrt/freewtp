@@ -20,7 +20,7 @@
 
 AC_PREREQ(2.63)
 
-AC_INIT([freewtp], [1.3.0], [https://github.com/travelping/freewtp], [freewtp])
+AC_INIT([freewtp], [1.4.0], [https://github.com/travelping/freewtp], [freewtp])
 AC_CONFIG_AUX_DIR([config])
 AC_CONFIG_MACRO_DIR([m4])
 AM_INIT_AUTOMAKE([1.11 -Wall foreign subdir-objects silent-rules])
